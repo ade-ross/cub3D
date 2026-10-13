@@ -222,4 +222,4 @@ The window is fixed size, set at compile time.
 
 ## Credit
 
-Built with [Alessandro De Rossi](https://github.com/cacatuacommander).
+Built with [Renato Dei Marini](https://github.com/redei-ma).
