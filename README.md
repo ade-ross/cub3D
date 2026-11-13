@@ -10,6 +10,8 @@ The map is a text file the program has to accept or refuse before a window is
 ever opened: any arrangement of rooms is legal as long as the walkable area is
 fully enclosed, which cannot be checked by looking at the borders alone.
 
+![Walking down a corridor in cub3D and opening a door](docs/demo.gif)
+
 ## How it works
 
 ### One ray per column
